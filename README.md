@@ -38,7 +38,7 @@ BioBrawlers offers:
 ---
 
 ## 🛠️ How to Play
-1. **Download**: *(Add download links for platforms like Steam, Itch.io, or Game Jolt.)*
+1. **Download**: 
 2. **Invite Friends**: Compete in mini-games with your friends.
 3. **Have Fun**: Learn and play together in the world of BioBrawlers.
 
